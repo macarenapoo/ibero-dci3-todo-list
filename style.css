@@ -80,7 +80,7 @@ h1 {
   margin-right: 20px;
 }
 
-.checkbox i {
+.checkbox svg {
   visibility: hidden;
 }
 
@@ -89,7 +89,7 @@ h1 {
 }
 
 
-.lista li.done .checkbox i {
+.lista li.done .checkbox svg {
   visibility: visible;
 }
 
